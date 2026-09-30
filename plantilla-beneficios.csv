@@ -1,0 +1,4 @@
+nombre,categoria,imagen_url,tipo_descuento,monto,direccion,maps_url,dias,activo,condiciones
+Café del Parque,Gastronomía,,En toda la carta,15%,"Av. San Martín 1200, Mendoza",https://maps.google.com/?q=Av.+San+Martín+1200+Mendoza,"lun,mar,mie,jue,vie",SI,Presentando la credencial de socio
+Nutri Market,Salud,,En suplementos,10%,"Belgrano 850, Godoy Cruz",https://maps.google.com/?q=Belgrano+850+Godoy+Cruz,todos,SI,
+Bici Andes,Deportes,,En service de bicicletas,20%,"Ozamis 300, Maipú",https://maps.google.com/?q=Ozamis+300+Maipú,"sab,dom",SI,No acumulable con otras promos
