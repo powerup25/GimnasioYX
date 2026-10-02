@@ -44,7 +44,7 @@ button{font:inherit;color:inherit}
 .hero::before{right:120px;background:linear-gradient(var(--blue),transparent)}
 .hero::after{right:-10px;background:linear-gradient(var(--orange),transparent)}
 .hero .wrap{display:flex;align-items:center;gap:18px;position:relative}
-.logo{width:84px;height:auto;border-radius:10px;flex:none}
+.logo{width:clamp(110px,28vw,170px);height:auto;flex:none}
 .hero h1{font-weight:900;font-style:italic;font-stretch:118%;text-transform:uppercase;font-size:clamp(1.55rem,5.4vw,2.9rem);line-height:.95;letter-spacing:-.01em}
 .hero h1 span{display:block;color:var(--orange)}
 .hero p{color:var(--muted);margin-top:8px;font-size:.95rem;max-width:46ch}
